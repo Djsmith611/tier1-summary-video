@@ -1,0 +1,1 @@
+console.log('Hello prime! Good to see ya!');
